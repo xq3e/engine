@@ -15,7 +15,7 @@ etc
 
 ### Installation
 
-1. Download the latest XQ3E from the following page https://github.com/xq3e/client
+1. Download the latest XQ3E from the following page https://github.com/xq3e/engine/releases
 2. Unzip XQ3E files
 3. Put XQ3E files to a root of the existing Quake 3 folder
 4. Execute XQ3E binary
