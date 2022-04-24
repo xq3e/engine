@@ -704,7 +704,7 @@ static field_t* CloneField(field_t* dest, field_t* src, int offset)
 	return dest;
 }
 
-static qboolean IsPrivatePrefix(const char* text, int* client)
+qboolean IsPrivatePrefix(const char* text, int* client)
 {
 	qboolean ended = qfalse;
 	int i;
